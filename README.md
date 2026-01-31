@@ -4,7 +4,7 @@
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Course Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange)
+![Course Level](https://img.shields.io/badge/Level-Advanced-orange)
 ![Last Updated](https://img.shields.io/badge/Updated-January%202026-brightgreen)
 
 **A Complete Python Course by Aya Nabil Saleem Alharazin**
