@@ -1,0 +1,4 @@
+https://www.university.edu
+http://example.com
+https://secure-site.com
+http://school.edu
